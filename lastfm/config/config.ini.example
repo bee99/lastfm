@@ -1,0 +1,4 @@
+[last.fm]
+lastFm[key]={YOUR_KEY}
+lastFm[secret]={YOUR_SECRET}
+lastFm[page_size]=5
